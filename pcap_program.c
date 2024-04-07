@@ -3,7 +3,7 @@
 #include <pcap.h>
 #include <arpa/inet.h>
 
-
+//[11반]순정연_0316
 
 struct ethheader {
   u_char  ether_dhost[6]; 
